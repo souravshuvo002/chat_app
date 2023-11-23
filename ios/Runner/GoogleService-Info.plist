@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAdjNYrWMQnib4WN9-nPnj3DDW8OVFpRWA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>35210668354</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sourav.das.chatApp</string>
+	<key>PROJECT_ID</key>
+	<string>wallapp-f25bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wallapp-f25bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:35210668354:ios:e96c9682a04ccdfc31c0db</string>
+</dict>
+</plist>

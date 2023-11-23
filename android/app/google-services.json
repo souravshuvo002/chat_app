@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35210668354",
+    "project_id": "wallapp-f25bd",
+    "storage_bucket": "wallapp-f25bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35210668354:android:c89378a9a707e50d31c0db",
+        "android_client_info": {
+          "package_name": "com.example.sourav.das.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOdaqhb2VJHE2EuUT5wfzaZw6ilNm6lxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
